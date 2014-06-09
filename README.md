@@ -9,7 +9,7 @@ Aquilamsoft Designs
  <div>
  <h1>Aquilamsoft Designs</h1>
   <ul>
-	  <li>LupussoftDesigns</li>
+	  <li>About Aquilamsoft Designs</li>
 	  <li>About the Masterr</li>
 	  <li>Sign Up</li>
 	  <li>Login In</li>
