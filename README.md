@@ -40,6 +40,8 @@ Aquilamsoft Designs
  <div class="container">
   <h3>Tell me What You Want</h3>
 	<p>Choose from over 100 customization options </p>
+	</body>
+	</html>
 
  
 	
